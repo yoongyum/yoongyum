@@ -1,10 +1,10 @@
 <p align = "center">
- <img src = "https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=YoonGyum&fontSize=70&fontColor=FFFFFF&animation=fadeIn"> 
+ <img src = "https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=30&height=200&section=header&text=YoonGyum&fontSize=70&fontColor=FFFFFF&animation=twinkling "> 
 </p>
 
 <br><br>
 
- ### _**<p align = "center">SKILLs</p>**_
+ ### _**<p align = "center">✨SKILLs</p>**_
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 
-### _**<p align = "center">Interesting</p>**_
+### _**<p align = "center">🎈Interesting</p>**_
 <p align="center">
     <img src = "https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
     <img src = "https://img.shields.io/badge/-kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
