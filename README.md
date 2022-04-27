@@ -2,14 +2,11 @@
  <img src = "https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient&customColorList=30&height=200&section=header&text=YoonGyum&fontSize=70&fontColor=FFFFFF&animation=twinkling "> 
 </p>
 
-<br><br>
 
  ### _**<p align = "center">✨SKILLs</p>**_
 
 
 <p align="center">
-    <img src = "https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
-    <img src = "https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     <img src = "https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
     <img src = "https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=React&logoColor=black">
     <img src = "https://img.shields.io/badge/-react_native-000020?style=flat-square&logo=Expo&logoColor=white">
