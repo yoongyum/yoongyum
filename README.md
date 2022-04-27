@@ -9,7 +9,7 @@
 <p align="center">
     <img src = "https://img.shields.io/badge/-javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
     <img src = "https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=React&logoColor=black">
-    <img src = "https://img.shields.io/badge/-react_native-000020?style=flat-square&logo=Expo&logoColor=white">
+    <img src = "https://img.shields.io/badge/-react_native-FF0040?style=flat-square&logo=Expo&logoColor=white">
 </p>
 
 
