@@ -27,7 +27,7 @@
 <p align="left">
     <img src = "https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
     <img src = "https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
- <img src = "https://img.shields.io/badge/-Typescript-8083FF?style=flat-square&logo=Typescript&logoColor=white">
+ <img src = "https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white">
 </p>
 
 ---
