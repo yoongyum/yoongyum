@@ -2,11 +2,6 @@
  ### _**<p align = "left">✨Skills</p>**_
 
 
-<p align="left" >
-    <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black">
-    <img src = "https://img.shields.io/badge/-React_Native-FF0040?style=flat-square&logo=React&logoColor=white">
-</p>
-
 
 <p align="left">
     <img src = "https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
